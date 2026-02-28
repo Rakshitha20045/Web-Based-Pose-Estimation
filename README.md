@@ -31,9 +31,9 @@ This project demonstrates the integration of machine learning and web technologi
 
 ## 🧠 Machine Learning Model
 
-- Model trained using **Google Teachable Machine**
+- Model trained using Google Teachable Machine
 - Pose classification model
-- Deployed using **TensorFlow.js**
+- Deployed using TensorFlow.js
 - Runs directly in the web browser
 
 ---
@@ -48,10 +48,6 @@ This project demonstrates the integration of machine learning and web technologi
 ### Machine Learning
 - Teachable Machine
 - TensorFlow.js
-
-### Other Technologies
-- Webcam API
-- Canvas API
 
 ---
 
