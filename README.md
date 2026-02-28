@@ -101,8 +101,3 @@ This project demonstrates the integration of machine learning and web technologi
 - Enhance UI/UX design  
 
 ---
-
-
-## ⭐ Project Purpose
-
-This project demonstrates real-time pose estimation using machine learning and web technologies for educational and portfolio purposes.
