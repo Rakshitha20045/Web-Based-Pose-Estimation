@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Web-Based Real-Time Pose Estimation Model</h1>
-  <h3 align="center">Browser-Based Human Pose Detection using Teachable Machine and TensorFlow.js</h3>
+  
 </p>
 
 <p align="center">
