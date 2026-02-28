@@ -11,9 +11,9 @@
 
 ## 📌 Overview
 
-The **Web Based Real Time Pose Estimation Model** is a machine learning web application that detects and classifies human poses in real time using a webcam.
+The Web Based Real Time Pose Estimation Model is a machine learning web application that detects and classifies human poses in real time using a webcam.
 
-The system uses a pose classification model trained with **Google Teachable Machine** and deployed in the browser using **TensorFlow.js**, enabling fast and efficient pose detection without external servers.
+The system uses a pose classification model trained with Google Teachable Machine and deployed in the browser using TensorFlow.js, enabling fast and efficient pose detection without external servers.
 
 This project demonstrates the integration of machine learning and web technologies for real-time human pose recognition.
 
